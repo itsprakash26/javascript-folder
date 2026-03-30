@@ -38,6 +38,7 @@ Q4 Conditional Operators (if, else, else-if, ternary, switch)
   Else → log “Minor”.
 */
 
+
 let input = prompt("Enter Your Age");
 
 if (input === null) {
